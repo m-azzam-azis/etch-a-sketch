@@ -26,7 +26,4 @@ button {
 .grid-row {
   display: flex;
 }
-.grid-box {
-  border: solid 1px gray;
-}
 
